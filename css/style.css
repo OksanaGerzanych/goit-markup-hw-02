@@ -1,0 +1,16 @@
+:root {
+    /* Fonts */
+    --main-font:;
+    --logo-font:;
+    /* Textcolors */
+    --main-text-color:757575;
+    --title-text-color:212121;
+    
+    /* Backgroundcolors */
+    --main-bgr-cl:2F303A;
+    --secondery-bgr-cl:F5F4FA;
+    /* Others */
+}
+body {
+    
+}
